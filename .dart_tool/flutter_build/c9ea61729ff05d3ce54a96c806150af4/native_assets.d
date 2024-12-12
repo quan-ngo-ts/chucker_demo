@@ -1,0 +1,1 @@
+ /Users/quan.ngo/Downloads/chucker-flutter-master\ 2/example/.dart_tool/flutter_build/c9ea61729ff05d3ce54a96c806150af4/native_assets.yaml: 
