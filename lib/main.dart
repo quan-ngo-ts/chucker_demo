@@ -313,12 +313,6 @@ class _TodoPageState extends State<TodoPage> {
               child: const Text('ERROR'),
             ),
             const SizedBox(height: 16),
-            ElevatedButton(
-              onPressed: uploadImage,
-              child: const Text('UPLOAD IMAGE (Chucker Flutter Logo)'),
-            ),
-            const SizedBox(height: 16),
-            Image.asset('assets/logo.png'),
           ],
         ),
       ),
